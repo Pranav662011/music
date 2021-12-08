@@ -1,0 +1,7 @@
+body{
+    background-size: cover;
+}
+
+#canvas{
+    border-color: red;
+}
